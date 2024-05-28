@@ -48,7 +48,7 @@ function App() {
             <QRCode
               value={qrValue}
               size={260}
-              fgColor="#4f4f4f"
+              fgColor="#000000"
               imageSettings={{
                 src: "IAM_logo.png",
                 x: null,
