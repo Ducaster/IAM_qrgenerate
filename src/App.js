@@ -53,8 +53,8 @@ function App() {
                 src: "IAM_logo.png",
                 x: null,
                 y: null,
-                height: 65,
-                width: 65,
+                height: 55,
+                width: 55,
                 excavate: true,
               }}
             />
